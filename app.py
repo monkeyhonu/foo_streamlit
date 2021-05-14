@@ -2,7 +2,7 @@ import streamlit as st
 import plotly.express as px
 import numpy as np
 import pickle
-import load_data import load_iris as li
+#import load_data import load_iris as li
 import time
 
 
